@@ -1,2 +1,2 @@
-# blogger
+# Content Delivery Network
 For blogger
